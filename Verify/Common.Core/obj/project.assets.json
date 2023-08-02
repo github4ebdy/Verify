@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MyReferences\\Verify\\Verify\\Common.Core\\Common.Core.csproj",
+      "projectUniqueName": "D:\\MyReferences\\VerifyWIP\\Verify\\Common.Core\\Common.Core.csproj",
       "projectName": "Common.Core",
-      "projectPath": "D:\\MyReferences\\Verify\\Verify\\Common.Core\\Common.Core.csproj",
+      "projectPath": "D:\\MyReferences\\VerifyWIP\\Verify\\Common.Core\\Common.Core.csproj",
       "packagesPath": "C:\\Users\\Divya Nair\\.nuget\\packages\\",
-      "outputPath": "D:\\MyReferences\\Verify\\Verify\\Common.Core\\obj\\",
+      "outputPath": "D:\\MyReferences\\VerifyWIP\\Verify\\Common.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Divya Nair\\AppData\\Roaming\\NuGet\\NuGet.Config",

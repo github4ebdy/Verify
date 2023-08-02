@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0kBRK6RtlGYg4ni8XpuhwJiRW+GkzVWNnIyzqH8rzOmKspH7oIE0iw+qcXwA1fDXHjm9lOOqjc+34xtuBWDD2w==",
+  "dgSpecHash": "SXnx1C8VDcIxasWe3Dx7OAA0g3OWN9eTWHi4m9+cau5mxpxYScL0jnMAomsUa1R1mc2WOdXQuu5CkdSjkNG3Ew==",
   "success": true,
-  "projectFilePath": "D:\\MyReferences\\Verify\\Verify\\Common.Entity\\Common.Entity.csproj",
+  "projectFilePath": "D:\\MyReferences\\VerifyWIP\\Verify\\Common.Entity\\Common.Entity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Divya Nair\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\Divya Nair\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

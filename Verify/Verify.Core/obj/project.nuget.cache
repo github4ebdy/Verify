@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/c0L+VoFtE6lyLBZFMEhnMq7QiIDblg//Qln/2XNBC+O+kYZoZSz8lwfC/S/Q8ci1/BZlVJbaLAnD5OkCTzBTQ==",
+  "dgSpecHash": "JXzYXSIGoOLJ9vetxYKx7R87rjvNJZsx+RZvO++ajUzZJsGJ8mGJY1F2YPYtiqn1kRuv/Q1ZWKixCnxd/spjtw==",
   "success": true,
-  "projectFilePath": "D:\\MyReferences\\Verify\\Verify\\Verify.Core\\Verify.Core.csproj",
+  "projectFilePath": "D:\\MyReferences\\VerifyWIP\\Verify\\Verify.Core\\Verify.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

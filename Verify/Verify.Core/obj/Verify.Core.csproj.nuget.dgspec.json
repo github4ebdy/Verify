@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MyReferences\\Verify\\Verify\\Verify.Core\\Verify.Core.csproj": {}
+    "D:\\MyReferences\\VerifyWIP\\Verify\\Verify.Core\\Verify.Core.csproj": {}
   },
   "projects": {
-    "D:\\MyReferences\\Verify\\Verify\\Common.Core\\Common.Core.csproj": {
+    "D:\\MyReferences\\VerifyWIP\\Verify\\Common.Core\\Common.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyReferences\\Verify\\Verify\\Common.Core\\Common.Core.csproj",
+        "projectUniqueName": "D:\\MyReferences\\VerifyWIP\\Verify\\Common.Core\\Common.Core.csproj",
         "projectName": "Common.Core",
-        "projectPath": "D:\\MyReferences\\Verify\\Verify\\Common.Core\\Common.Core.csproj",
+        "projectPath": "D:\\MyReferences\\VerifyWIP\\Verify\\Common.Core\\Common.Core.csproj",
         "packagesPath": "C:\\Users\\Divya Nair\\.nuget\\packages\\",
-        "outputPath": "D:\\MyReferences\\Verify\\Verify\\Common.Core\\obj\\",
+        "outputPath": "D:\\MyReferences\\VerifyWIP\\Verify\\Common.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Divya Nair\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "D:\\MyReferences\\Verify\\Verify\\Verify.Core\\Verify.Core.csproj": {
+    "D:\\MyReferences\\VerifyWIP\\Verify\\Verify.Core\\Verify.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyReferences\\Verify\\Verify\\Verify.Core\\Verify.Core.csproj",
+        "projectUniqueName": "D:\\MyReferences\\VerifyWIP\\Verify\\Verify.Core\\Verify.Core.csproj",
         "projectName": "Verify.Core",
-        "projectPath": "D:\\MyReferences\\Verify\\Verify\\Verify.Core\\Verify.Core.csproj",
+        "projectPath": "D:\\MyReferences\\VerifyWIP\\Verify\\Verify.Core\\Verify.Core.csproj",
         "packagesPath": "C:\\Users\\Divya Nair\\.nuget\\packages\\",
-        "outputPath": "D:\\MyReferences\\Verify\\Verify\\Verify.Core\\obj\\",
+        "outputPath": "D:\\MyReferences\\VerifyWIP\\Verify\\Verify.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Divya Nair\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,8 +83,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\MyReferences\\Verify\\Verify\\Common.Core\\Common.Core.csproj": {
-                "projectPath": "D:\\MyReferences\\Verify\\Verify\\Common.Core\\Common.Core.csproj"
+              "D:\\MyReferences\\VerifyWIP\\Verify\\Common.Core\\Common.Core.csproj": {
+                "projectPath": "D:\\MyReferences\\VerifyWIP\\Verify\\Common.Core\\Common.Core.csproj"
               }
             }
           }

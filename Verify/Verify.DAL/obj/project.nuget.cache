@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V7aWeRgkIjOlE2nxUVF/oX+cVGLgQeTzaGHOiAEr+2jtsMAOaZh5ClcQn5T8Oz0nsWKNd11JcWdlq3GWLrHRtw==",
+  "dgSpecHash": "3NJpSAFRcKUtVc4z/A1xcDBRxgx5Q1dSVmpEDAXUpk36O26lYUyAl5CsEb4pEQrzxoTUYWODBswJsmUqYk3ASg==",
   "success": true,
-  "projectFilePath": "D:\\MyReferences\\Verify\\Verify\\Verify.DAL\\Verify.DAL.csproj",
+  "projectFilePath": "D:\\MyReferences\\VerifyWIP\\Verify\\Verify.DAL\\Verify.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Divya Nair\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Divya Nair\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Verify.Core
-build_property.ProjectDir = D:\MyReferences\Verify\Verify\Verify.Core\
+build_property.ProjectDir = D:\MyReferences\VerifyWIP\Verify\Verify.Core\

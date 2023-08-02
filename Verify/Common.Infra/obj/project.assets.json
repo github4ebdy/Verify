@@ -9451,11 +9451,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MyReferences\\Verify\\Verify\\Common.Infra\\Common.Infra.csproj",
+      "projectUniqueName": "D:\\MyReferences\\VerifyWIP\\Verify\\Common.Infra\\Common.Infra.csproj",
       "projectName": "Common.Infra",
-      "projectPath": "D:\\MyReferences\\Verify\\Verify\\Common.Infra\\Common.Infra.csproj",
+      "projectPath": "D:\\MyReferences\\VerifyWIP\\Verify\\Common.Infra\\Common.Infra.csproj",
       "packagesPath": "C:\\Users\\Divya Nair\\.nuget\\packages\\",
-      "outputPath": "D:\\MyReferences\\Verify\\Verify\\Common.Infra\\obj\\",
+      "outputPath": "D:\\MyReferences\\VerifyWIP\\Verify\\Common.Infra\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Divya Nair\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9472,8 +9472,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\MyReferences\\Verify\\Verify\\Common.Entity\\Common.Entity.csproj": {
-              "projectPath": "D:\\MyReferences\\Verify\\Verify\\Common.Entity\\Common.Entity.csproj"
+            "D:\\MyReferences\\VerifyWIP\\Verify\\Common.Entity\\Common.Entity.csproj": {
+              "projectPath": "D:\\MyReferences\\VerifyWIP\\Verify\\Common.Entity\\Common.Entity.csproj"
             }
           }
         }

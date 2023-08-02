@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nx1pubdQDjrkfu8QLrTQTJHuWbXAcRmP7BOqRq6IeutaknPt0mQHB5qVmj2F4z5A3Le6TXqJ6fRg5cJMDb5USA==",
+  "dgSpecHash": "KDBri4jfVRqwNKE1JScE2u8yOCW6AO1epcjGVmECR8wzaH6pWAbiMFSW0GuT0ZcEufuHSYtofsGNklw233n5Ag==",
   "success": true,
-  "projectFilePath": "D:\\MyReferences\\Verify\\Verify\\Common.Infra\\Common.Infra.csproj",
+  "projectFilePath": "D:\\MyReferences\\VerifyWIP\\Verify\\Common.Infra\\Common.Infra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Divya Nair\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Divya Nair\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
