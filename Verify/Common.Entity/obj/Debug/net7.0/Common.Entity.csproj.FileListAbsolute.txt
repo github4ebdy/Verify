@@ -1,0 +1,14 @@
+D:\MyReferences\Verify\Verify\Common.Entity\bin\Debug\net7.0\Common.Entity.deps.json
+D:\MyReferences\Verify\Verify\Common.Entity\bin\Debug\net7.0\Common.Entity.dll
+D:\MyReferences\Verify\Verify\Common.Entity\bin\Debug\net7.0\Common.Entity.pdb
+D:\MyReferences\Verify\Verify\Common.Entity\obj\Debug\net7.0\Common.Entity.csproj.AssemblyReference.cache
+D:\MyReferences\Verify\Verify\Common.Entity\obj\Debug\net7.0\Common.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyReferences\Verify\Verify\Common.Entity\obj\Debug\net7.0\Common.Entity.AssemblyInfoInputs.cache
+D:\MyReferences\Verify\Verify\Common.Entity\obj\Debug\net7.0\Common.Entity.AssemblyInfo.cs
+D:\MyReferences\Verify\Verify\Common.Entity\obj\Debug\net7.0\Common.Entity.csproj.CoreCompileInputs.cache
+D:\MyReferences\Verify\Verify\Common.Entity\obj\Debug\net7.0\Common.Entity.dll
+D:\MyReferences\Verify\Verify\Common.Entity\obj\Debug\net7.0\refint\Common.Entity.dll
+D:\MyReferences\Verify\Verify\Common.Entity\obj\Debug\net7.0\Common.Entity.pdb
+D:\MyReferences\Verify\Verify\Common.Entity\obj\Debug\net7.0\ref\Common.Entity.dll
+D:\MyReferences\Verify\Verify\Common.Entity\bin\Debug\net7.0\Common.Entity.runtimeconfig.json
+D:\MyReferences\Verify\Verify\Common.Entity\obj\Debug\net7.0\Common.Entity.genruntimeconfig.cache

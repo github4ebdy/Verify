@@ -1,0 +1,12 @@
+D:\MyReferences\Verify\Verify\Common.Utility\bin\Debug\net7.0\Common.Utility.deps.json
+D:\MyReferences\Verify\Verify\Common.Utility\bin\Debug\net7.0\Common.Utility.dll
+D:\MyReferences\Verify\Verify\Common.Utility\bin\Debug\net7.0\Common.Utility.pdb
+D:\MyReferences\Verify\Verify\Common.Utility\obj\Debug\net7.0\Common.Utility.csproj.AssemblyReference.cache
+D:\MyReferences\Verify\Verify\Common.Utility\obj\Debug\net7.0\Common.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyReferences\Verify\Verify\Common.Utility\obj\Debug\net7.0\Common.Utility.AssemblyInfoInputs.cache
+D:\MyReferences\Verify\Verify\Common.Utility\obj\Debug\net7.0\Common.Utility.AssemblyInfo.cs
+D:\MyReferences\Verify\Verify\Common.Utility\obj\Debug\net7.0\Common.Utility.csproj.CoreCompileInputs.cache
+D:\MyReferences\Verify\Verify\Common.Utility\obj\Debug\net7.0\Common.Utility.dll
+D:\MyReferences\Verify\Verify\Common.Utility\obj\Debug\net7.0\refint\Common.Utility.dll
+D:\MyReferences\Verify\Verify\Common.Utility\obj\Debug\net7.0\Common.Utility.pdb
+D:\MyReferences\Verify\Verify\Common.Utility\obj\Debug\net7.0\ref\Common.Utility.dll
