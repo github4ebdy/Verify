@@ -1,0 +1,475 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\MyReferences\\MyGitReferences\\Verify\\Verify.Service\\Verify.Service.csproj": {}
+  },
+  "projects": {
+    "D:\\MyReferences\\MyGitReferences\\Verify\\Common.Core\\Common.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyReferences\\MyGitReferences\\Verify\\Common.Core\\Common.Core.csproj",
+        "projectName": "Common.Core",
+        "projectPath": "D:\\MyReferences\\MyGitReferences\\Verify\\Common.Core\\Common.Core.csproj",
+        "packagesPath": "C:\\Users\\Divya Nair\\.nuget\\packages\\",
+        "outputPath": "D:\\MyReferences\\MyGitReferences\\Verify\\Common.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Divya Nair\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.109\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MyReferences\\MyGitReferences\\Verify\\Common.Entity\\Common.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyReferences\\MyGitReferences\\Verify\\Common.Entity\\Common.Entity.csproj",
+        "projectName": "Common.Entity",
+        "projectPath": "D:\\MyReferences\\MyGitReferences\\Verify\\Common.Entity\\Common.Entity.csproj",
+        "packagesPath": "C:\\Users\\Divya Nair\\.nuget\\packages\\",
+        "outputPath": "D:\\MyReferences\\MyGitReferences\\Verify\\Common.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Divya Nair\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.109\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MyReferences\\MyGitReferences\\Verify\\Common.Infra\\Common.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyReferences\\MyGitReferences\\Verify\\Common.Infra\\Common.Infra.csproj",
+        "projectName": "Common.Infra",
+        "projectPath": "D:\\MyReferences\\MyGitReferences\\Verify\\Common.Infra\\Common.Infra.csproj",
+        "packagesPath": "C:\\Users\\Divya Nair\\.nuget\\packages\\",
+        "outputPath": "D:\\MyReferences\\MyGitReferences\\Verify\\Common.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Divya Nair\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\MyReferences\\MyGitReferences\\Verify\\Common.Entity\\Common.Entity.csproj": {
+                "projectPath": "D:\\MyReferences\\MyGitReferences\\Verify\\Common.Entity\\Common.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "EFCore.BulkExtensions": {
+              "target": "Package",
+              "version": "[7.1.5, )"
+            },
+            "Microsoft.AspNetCore.Mvc.ViewFeatures": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.109\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MyReferences\\MyGitReferences\\Verify\\Common.Utility\\Common.Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyReferences\\MyGitReferences\\Verify\\Common.Utility\\Common.Utility.csproj",
+        "projectName": "Common.Utility",
+        "projectPath": "D:\\MyReferences\\MyGitReferences\\Verify\\Common.Utility\\Common.Utility.csproj",
+        "packagesPath": "C:\\Users\\Divya Nair\\.nuget\\packages\\",
+        "outputPath": "D:\\MyReferences\\MyGitReferences\\Verify\\Common.Utility\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Divya Nair\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.109\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MyReferences\\MyGitReferences\\Verify\\Verify.Core\\Verify.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyReferences\\MyGitReferences\\Verify\\Verify.Core\\Verify.Core.csproj",
+        "projectName": "Verify.Core",
+        "projectPath": "D:\\MyReferences\\MyGitReferences\\Verify\\Verify.Core\\Verify.Core.csproj",
+        "packagesPath": "C:\\Users\\Divya Nair\\.nuget\\packages\\",
+        "outputPath": "D:\\MyReferences\\MyGitReferences\\Verify\\Verify.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Divya Nair\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\MyReferences\\MyGitReferences\\Verify\\Common.Core\\Common.Core.csproj": {
+                "projectPath": "D:\\MyReferences\\MyGitReferences\\Verify\\Common.Core\\Common.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.109\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MyReferences\\MyGitReferences\\Verify\\Verify.DAL\\Verify.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyReferences\\MyGitReferences\\Verify\\Verify.DAL\\Verify.DAL.csproj",
+        "projectName": "Verify.DAL",
+        "projectPath": "D:\\MyReferences\\MyGitReferences\\Verify\\Verify.DAL\\Verify.DAL.csproj",
+        "packagesPath": "C:\\Users\\Divya Nair\\.nuget\\packages\\",
+        "outputPath": "D:\\MyReferences\\MyGitReferences\\Verify\\Verify.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Divya Nair\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\MyReferences\\MyGitReferences\\Verify\\Common.Entity\\Common.Entity.csproj": {
+                "projectPath": "D:\\MyReferences\\MyGitReferences\\Verify\\Common.Entity\\Common.Entity.csproj"
+              },
+              "D:\\MyReferences\\MyGitReferences\\Verify\\Common.Infra\\Common.Infra.csproj": {
+                "projectPath": "D:\\MyReferences\\MyGitReferences\\Verify\\Common.Infra\\Common.Infra.csproj"
+              },
+              "D:\\MyReferences\\MyGitReferences\\Verify\\Verify.Core\\Verify.Core.csproj": {
+                "projectPath": "D:\\MyReferences\\MyGitReferences\\Verify\\Verify.Core\\Verify.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.109\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MyReferences\\MyGitReferences\\Verify\\Verify.Service\\Verify.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyReferences\\MyGitReferences\\Verify\\Verify.Service\\Verify.Service.csproj",
+        "projectName": "Verify.Service",
+        "projectPath": "D:\\MyReferences\\MyGitReferences\\Verify\\Verify.Service\\Verify.Service.csproj",
+        "packagesPath": "C:\\Users\\Divya Nair\\.nuget\\packages\\",
+        "outputPath": "D:\\MyReferences\\MyGitReferences\\Verify\\Verify.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Divya Nair\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\MyReferences\\MyGitReferences\\Verify\\Common.Utility\\Common.Utility.csproj": {
+                "projectPath": "D:\\MyReferences\\MyGitReferences\\Verify\\Common.Utility\\Common.Utility.csproj"
+              },
+              "D:\\MyReferences\\MyGitReferences\\Verify\\Verify.Core\\Verify.Core.csproj": {
+                "projectPath": "D:\\MyReferences\\MyGitReferences\\Verify\\Verify.Core\\Verify.Core.csproj"
+              },
+              "D:\\MyReferences\\MyGitReferences\\Verify\\Verify.DAL\\Verify.DAL.csproj": {
+                "projectPath": "D:\\MyReferences\\MyGitReferences\\Verify\\Verify.DAL\\Verify.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.109\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
